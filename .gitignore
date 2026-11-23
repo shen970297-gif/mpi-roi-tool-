@@ -1,0 +1,17 @@
+# Generated analysis and local data
+results/
+旧版备份/
+*.dcm
+*.DCM
+*.tif
+*.tiff
+*.mat
+*.csv
+*.xlsx
+*.xls
+*.asv
+*.bak*
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
